@@ -1,7 +1,7 @@
 # Ultrasonic Sensor and Buzzer Project
 
 ## Overview
-This project demonstrates the use of an ultrasonic sensor and a buzzer to create a distance-based alarm system. The buzzer sounds when an object is detected within a specified range (e.g., 50 cm) by the ultrasonic sensor.
+This project demonstrates the use of an ultrasonic sensor and a buzzer to create a distance-based alarm system. The buzzer sounds when an object is detected within a specified range (e.g., 5 cm) by the ultrasonic sensor.
 
 ## Components Required
 - Arduino Uno
