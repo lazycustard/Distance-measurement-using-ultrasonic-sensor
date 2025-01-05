@@ -1,4 +1,4 @@
-# Ultrasonic Sensor and Buzzer Project
+# Distance measurement using Ultrasonic Sensor 
 
 ## Overview
 This project demonstrates the use of an ultrasonic sensor and a buzzer to create a distance-based alarm system. The buzzer sounds when an object is detected within a specified range (e.g., 5 cm) by the ultrasonic sensor.
